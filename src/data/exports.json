@@ -1,0 +1,6429 @@
+{
+  "_meta": {
+    "source": "Observatory of Economic Complexity (oec.world), cube trade_i_baci_a_22",
+    "retrieved": "2026-11-08",
+    "level": "Section"
+  },
+  "AD": {
+    "total": 109559271,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Machines",
+        "s": 0.413
+      },
+      {
+        "p": "Instruments",
+        "s": 0.213
+      },
+      {
+        "p": "Transportation",
+        "s": 0.142
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.04
+      },
+      {
+        "p": "Paper Goods",
+        "s": 0.038
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.037
+      },
+      {
+        "p": "Metals",
+        "s": 0.037
+      },
+      {
+        "p": "Footwear and Headwear",
+        "s": 0.014
+      }
+    ]
+  },
+  "AE": {
+    "total": 309551308463,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.58
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.243
+      },
+      {
+        "p": "Metals",
+        "s": 0.059
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.025
+      },
+      {
+        "p": "Machines",
+        "s": 0.025
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.02
+      },
+      {
+        "p": "Transportation",
+        "s": 0.014
+      }
+    ]
+  },
+  "AF": {
+    "total": 1615214623,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Vegetable Products",
+        "s": 0.707
+      },
+      {
+        "p": "Textiles",
+        "s": 0.154
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.07
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.024
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.01
+      }
+    ]
+  },
+  "AG": {
+    "total": 217115449,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Transportation",
+        "s": 0.66
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.134
+      },
+      {
+        "p": "Arts and Antiques",
+        "s": 0.054
+      },
+      {
+        "p": "Metals",
+        "s": 0.045
+      },
+      {
+        "p": "Machines",
+        "s": 0.033
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.028
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.023
+      }
+    ]
+  },
+  "AL": {
+    "total": 3930716042,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Textiles",
+        "s": 0.199
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.154
+      },
+      {
+        "p": "Metals",
+        "s": 0.15
+      },
+      {
+        "p": "Footwear and Headwear",
+        "s": 0.148
+      },
+      {
+        "p": "Machines",
+        "s": 0.083
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.071
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.045
+      },
+      {
+        "p": "Miscellaneous",
+        "s": 0.022
+      }
+    ]
+  },
+  "AM": {
+    "total": 13361658303,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Precious Metals",
+        "s": 0.605
+      },
+      {
+        "p": "Machines",
+        "s": 0.1
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.078
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.073
+      },
+      {
+        "p": "Textiles",
+        "s": 0.037
+      },
+      {
+        "p": "Metals",
+        "s": 0.033
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.014
+      },
+      {
+        "p": "Instruments",
+        "s": 0.011
+      }
+    ]
+  },
+  "AO": {
+    "total": 42285090254,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.835
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.08
+      },
+      {
+        "p": "Transportation",
+        "s": 0.066
+      }
+    ]
+  },
+  "AR": {
+    "total": 79931917799,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Vegetable Products",
+        "s": 0.209
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.181
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.115
+      },
+      {
+        "p": "Transportation",
+        "s": 0.106
+      },
+      {
+        "p": "Animal and Vegetable Bi-Products",
+        "s": 0.096
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.095
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.069
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.045
+      }
+    ]
+  },
+  "AT": {
+    "total": 205128559070,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Machines",
+        "s": 0.262
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.139
+      },
+      {
+        "p": "Metals",
+        "s": 0.137
+      },
+      {
+        "p": "Transportation",
+        "s": 0.118
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.058
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.048
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.035
+      },
+      {
+        "p": "Paper Goods",
+        "s": 0.034
+      }
+    ]
+  },
+  "AU": {
+    "total": 357389546818,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.627
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.092
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.052
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.049
+      },
+      {
+        "p": "Metals",
+        "s": 0.046
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.04
+      },
+      {
+        "p": "Machines",
+        "s": 0.022
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.021
+      }
+    ]
+  },
+  "AZ": {
+    "total": 27102277039,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.87
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.027
+      },
+      {
+        "p": "Metals",
+        "s": 0.016
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.014
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.014
+      },
+      {
+        "p": "Weapons",
+        "s": 0.012
+      }
+    ]
+  },
+  "BA": {
+    "total": 9528865270,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Machines",
+        "s": 0.178
+      },
+      {
+        "p": "Metals",
+        "s": 0.169
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.086
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.082
+      },
+      {
+        "p": "Miscellaneous",
+        "s": 0.081
+      },
+      {
+        "p": "Wood Products",
+        "s": 0.054
+      },
+      {
+        "p": "Footwear and Headwear",
+        "s": 0.053
+      },
+      {
+        "p": "Textiles",
+        "s": 0.052
+      }
+    ]
+  },
+  "BB": {
+    "total": 440719499,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Foodstuffs",
+        "s": 0.296
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.169
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.114
+      },
+      {
+        "p": "Transportation",
+        "s": 0.09
+      },
+      {
+        "p": "Metals",
+        "s": 0.085
+      },
+      {
+        "p": "Instruments",
+        "s": 0.049
+      },
+      {
+        "p": "Animal and Vegetable Bi-Products",
+        "s": 0.039
+      },
+      {
+        "p": "Paper Goods",
+        "s": 0.038
+      }
+    ]
+  },
+  "BD": {
+    "total": 58762121141,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Textiles",
+        "s": 0.9
+      },
+      {
+        "p": "Footwear and Headwear",
+        "s": 0.043
+      },
+      {
+        "p": "Animal Hides",
+        "s": 0.011
+      }
+    ]
+  },
+  "BE": {
+    "total": 380560365179,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Chemical Products",
+        "s": 0.25
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.132
+      },
+      {
+        "p": "Transportation",
+        "s": 0.098
+      },
+      {
+        "p": "Machines",
+        "s": 0.092
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.083
+      },
+      {
+        "p": "Metals",
+        "s": 0.081
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.072
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.039
+      }
+    ]
+  },
+  "BF": {
+    "total": 9459680149,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Precious Metals",
+        "s": 0.874
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.048
+      },
+      {
+        "p": "Textiles",
+        "s": 0.038
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.013
+      }
+    ]
+  },
+  "BG": {
+    "total": 51973180534,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Machines",
+        "s": 0.172
+      },
+      {
+        "p": "Metals",
+        "s": 0.157
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.147
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.082
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.061
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.058
+      },
+      {
+        "p": "Weapons",
+        "s": 0.056
+      },
+      {
+        "p": "Textiles",
+        "s": 0.048
+      }
+    ]
+  },
+  "BH": {
+    "total": 18156800780,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.38
+      },
+      {
+        "p": "Metals",
+        "s": 0.358
+      },
+      {
+        "p": "Machines",
+        "s": 0.063
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.039
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.031
+      },
+      {
+        "p": "Transportation",
+        "s": 0.031
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.023
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.021
+      }
+    ]
+  },
+  "BI": {
+    "total": 68168783,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Vegetable Products",
+        "s": 0.578
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.304
+      },
+      {
+        "p": "Metals",
+        "s": 0.035
+      },
+      {
+        "p": "Textiles",
+        "s": 0.015
+      },
+      {
+        "p": "Machines",
+        "s": 0.013
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.011
+      },
+      {
+        "p": "Animal Hides",
+        "s": 0.011
+      },
+      {
+        "p": "Instruments",
+        "s": 0.011
+      }
+    ]
+  },
+  "BJ": {
+    "total": 1471280794,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Textiles",
+        "s": 0.367
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.353
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.098
+      },
+      {
+        "p": "Metals",
+        "s": 0.038
+      },
+      {
+        "p": "Animal and Vegetable Bi-Products",
+        "s": 0.031
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.029
+      },
+      {
+        "p": "Wood Products",
+        "s": 0.026
+      },
+      {
+        "p": "Transportation",
+        "s": 0.019
+      }
+    ]
+  },
+  "BN": {
+    "total": 11469666574,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.748
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.214
+      },
+      {
+        "p": "Transportation",
+        "s": 0.013
+      },
+      {
+        "p": "Machines",
+        "s": 0.012
+      }
+    ]
+  },
+  "BO": {
+    "total": 9048777713,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.477
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.131
+      },
+      {
+        "p": "Metals",
+        "s": 0.089
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.085
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.058
+      },
+      {
+        "p": "Animal and Vegetable Bi-Products",
+        "s": 0.057
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.031
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.029
+      }
+    ]
+  },
+  "BR": {
+    "total": 350305232860,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.275
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.194
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.128
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.079
+      },
+      {
+        "p": "Metals",
+        "s": 0.055
+      },
+      {
+        "p": "Transportation",
+        "s": 0.054
+      },
+      {
+        "p": "Machines",
+        "s": 0.051
+      },
+      {
+        "p": "Paper Goods",
+        "s": 0.041
+      }
+    ]
+  },
+  "BS": {
+    "total": 2357190253,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.699
+      },
+      {
+        "p": "Transportation",
+        "s": 0.13
+      },
+      {
+        "p": "Paper Goods",
+        "s": 0.041
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.025
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.025
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.018
+      },
+      {
+        "p": "Metals",
+        "s": 0.016
+      },
+      {
+        "p": "Machines",
+        "s": 0.012
+      }
+    ]
+  },
+  "BT": {
+    "total": 461085158,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Metals",
+        "s": 0.463
+      },
+      {
+        "p": "Transportation",
+        "s": 0.214
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.203
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.051
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.027
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.015
+      },
+      {
+        "p": "Wood Products",
+        "s": 0.015
+      }
+    ]
+  },
+  "BW": {
+    "total": 4174071578,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Precious Metals",
+        "s": 0.66
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.213
+      },
+      {
+        "p": "Machines",
+        "s": 0.042
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.023
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.02
+      },
+      {
+        "p": "Metals",
+        "s": 0.015
+      }
+    ]
+  },
+  "BY": {
+    "total": 6270550590,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Chemical Products",
+        "s": 0.236
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.138
+      },
+      {
+        "p": "Wood Products",
+        "s": 0.108
+      },
+      {
+        "p": "Animal and Vegetable Bi-Products",
+        "s": 0.088
+      },
+      {
+        "p": "Transportation",
+        "s": 0.068
+      },
+      {
+        "p": "Machines",
+        "s": 0.065
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.047
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.037
+      }
+    ]
+  },
+  "BZ": {
+    "total": 431383043,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Foodstuffs",
+        "s": 0.435
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.22
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.152
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.038
+      },
+      {
+        "p": "Machines",
+        "s": 0.029
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.026
+      },
+      {
+        "p": "Paper Goods",
+        "s": 0.013
+      },
+      {
+        "p": "Metals",
+        "s": 0.013
+      }
+    ]
+  },
+  "CA": {
+    "total": 573325205665,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.281
+      },
+      {
+        "p": "Transportation",
+        "s": 0.125
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.101
+      },
+      {
+        "p": "Machines",
+        "s": 0.101
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.071
+      },
+      {
+        "p": "Metals",
+        "s": 0.071
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.048
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.042
+      }
+    ]
+  },
+  "CD": {
+    "total": 29599508708,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Metals",
+        "s": 0.803
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.152
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.018
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.013
+      }
+    ]
+  },
+  "CF": {
+    "total": 245289956,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Transportation",
+        "s": 0.528
+      },
+      {
+        "p": "Wood Products",
+        "s": 0.215
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.089
+      },
+      {
+        "p": "Metals",
+        "s": 0.086
+      },
+      {
+        "p": "Machines",
+        "s": 0.055
+      }
+    ]
+  },
+  "CG": {
+    "total": 8512232385,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.715
+      },
+      {
+        "p": "Metals",
+        "s": 0.231
+      },
+      {
+        "p": "Wood Products",
+        "s": 0.034
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.011
+      }
+    ]
+  },
+  "CH": {
+    "total": 398804885309,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Chemical Products",
+        "s": 0.325
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.312
+      },
+      {
+        "p": "Instruments",
+        "s": 0.129
+      },
+      {
+        "p": "Machines",
+        "s": 0.099
+      },
+      {
+        "p": "Metals",
+        "s": 0.026
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.017
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.016
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.016
+      }
+    ]
+  },
+  "CI": {
+    "total": 26046254420,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Foodstuffs",
+        "s": 0.367
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.225
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.138
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.112
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.075
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.022
+      },
+      {
+        "p": "Animal and Vegetable Bi-Products",
+        "s": 0.014
+      },
+      {
+        "p": "Textiles",
+        "s": 0.013
+      }
+    ]
+  },
+  "CL": {
+    "total": 101235581444,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.357
+      },
+      {
+        "p": "Metals",
+        "s": 0.211
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.105
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.089
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.074
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.042
+      },
+      {
+        "p": "Paper Goods",
+        "s": 0.04
+      },
+      {
+        "p": "Wood Products",
+        "s": 0.023
+      }
+    ]
+  },
+  "CM": {
+    "total": 6916336107,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.511
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.28
+      },
+      {
+        "p": "Wood Products",
+        "s": 0.087
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.036
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.034
+      },
+      {
+        "p": "Metals",
+        "s": 0.019
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.01
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.01
+      }
+    ]
+  },
+  "CN": {
+    "total": 3605655196924,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Machines",
+        "s": 0.467
+      },
+      {
+        "p": "Metals",
+        "s": 0.08
+      },
+      {
+        "p": "Textiles",
+        "s": 0.075
+      },
+      {
+        "p": "Transportation",
+        "s": 0.073
+      },
+      {
+        "p": "Miscellaneous",
+        "s": 0.061
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.06
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.049
+      },
+      {
+        "p": "Instruments",
+        "s": 0.026
+      }
+    ]
+  },
+  "CO": {
+    "total": 51122270715,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.47
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.147
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.08
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.057
+      },
+      {
+        "p": "Metals",
+        "s": 0.048
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.044
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.035
+      },
+      {
+        "p": "Machines",
+        "s": 0.034
+      }
+    ]
+  },
+  "CR": {
+    "total": 24147521183,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Instruments",
+        "s": 0.397
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.18
+      },
+      {
+        "p": "Machines",
+        "s": 0.143
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.097
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.045
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.037
+      },
+      {
+        "p": "Metals",
+        "s": 0.027
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.018
+      }
+    ]
+  },
+  "CU": {
+    "total": 986837540,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Foodstuffs",
+        "s": 0.518
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.175
+      },
+      {
+        "p": "Metals",
+        "s": 0.143
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.071
+      },
+      {
+        "p": "Wood Products",
+        "s": 0.05
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.02
+      }
+    ]
+  },
+  "CV": {
+    "total": 86460243,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Foodstuffs",
+        "s": 0.704
+      },
+      {
+        "p": "Metals",
+        "s": 0.067
+      },
+      {
+        "p": "Textiles",
+        "s": 0.065
+      },
+      {
+        "p": "Machines",
+        "s": 0.053
+      },
+      {
+        "p": "Footwear and Headwear",
+        "s": 0.032
+      },
+      {
+        "p": "Miscellaneous",
+        "s": 0.032
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.02
+      }
+    ]
+  },
+  "CY": {
+    "total": 5444980264,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.271
+      },
+      {
+        "p": "Transportation",
+        "s": 0.202
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.15
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.102
+      },
+      {
+        "p": "Machines",
+        "s": 0.087
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.063
+      },
+      {
+        "p": "Metals",
+        "s": 0.027
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.026
+      }
+    ]
+  },
+  "CZ": {
+    "total": 244664898041,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Machines",
+        "s": 0.364
+      },
+      {
+        "p": "Transportation",
+        "s": 0.231
+      },
+      {
+        "p": "Metals",
+        "s": 0.074
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.051
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.051
+      },
+      {
+        "p": "Miscellaneous",
+        "s": 0.047
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.034
+      },
+      {
+        "p": "Instruments",
+        "s": 0.031
+      }
+    ]
+  },
+  "DE": {
+    "total": 1553266741115,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Machines",
+        "s": 0.266
+      },
+      {
+        "p": "Transportation",
+        "s": 0.206
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.152
+      },
+      {
+        "p": "Metals",
+        "s": 0.077
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.056
+      },
+      {
+        "p": "Instruments",
+        "s": 0.052
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.038
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.023
+      }
+    ]
+  },
+  "DJ": {
+    "total": 192703509,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Animal Products",
+        "s": 0.544
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.195
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.125
+      },
+      {
+        "p": "Machines",
+        "s": 0.051
+      },
+      {
+        "p": "Metals",
+        "s": 0.046
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.012
+      }
+    ]
+  },
+  "DK": {
+    "total": 119603537327,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Chemical Products",
+        "s": 0.248
+      },
+      {
+        "p": "Machines",
+        "s": 0.191
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.12
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.068
+      },
+      {
+        "p": "Metals",
+        "s": 0.058
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.055
+      },
+      {
+        "p": "Transportation",
+        "s": 0.052
+      },
+      {
+        "p": "Instruments",
+        "s": 0.043
+      }
+    ]
+  },
+  "DM": {
+    "total": 29528652,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Metals",
+        "s": 0.308
+      },
+      {
+        "p": "Machines",
+        "s": 0.142
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.109
+      },
+      {
+        "p": "Transportation",
+        "s": 0.092
+      },
+      {
+        "p": "Instruments",
+        "s": 0.085
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.064
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.057
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.038
+      }
+    ]
+  },
+  "DO": {
+    "total": 14654680330,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Foodstuffs",
+        "s": 0.194
+      },
+      {
+        "p": "Instruments",
+        "s": 0.185
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.139
+      },
+      {
+        "p": "Machines",
+        "s": 0.111
+      },
+      {
+        "p": "Textiles",
+        "s": 0.082
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.054
+      },
+      {
+        "p": "Metals",
+        "s": 0.054
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.052
+      }
+    ]
+  },
+  "DZ": {
+    "total": 48039608084,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.921
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.045
+      },
+      {
+        "p": "Metals",
+        "s": 0.018
+      }
+    ]
+  },
+  "EC": {
+    "total": 40320802310,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.451
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.165
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.149
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.147
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.029
+      },
+      {
+        "p": "Wood Products",
+        "s": 0.014
+      },
+      {
+        "p": "Metals",
+        "s": 0.011
+      }
+    ]
+  },
+  "EE": {
+    "total": 20313297022,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Machines",
+        "s": 0.24
+      },
+      {
+        "p": "Wood Products",
+        "s": 0.104
+      },
+      {
+        "p": "Transportation",
+        "s": 0.095
+      },
+      {
+        "p": "Metals",
+        "s": 0.074
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.066
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.065
+      },
+      {
+        "p": "Miscellaneous",
+        "s": 0.061
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.052
+      }
+    ]
+  },
+  "EG": {
+    "total": 53006222753,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.2
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.125
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.117
+      },
+      {
+        "p": "Textiles",
+        "s": 0.109
+      },
+      {
+        "p": "Metals",
+        "s": 0.099
+      },
+      {
+        "p": "Machines",
+        "s": 0.078
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.065
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.064
+      }
+    ]
+  },
+  "ER": {
+    "total": 573916127,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.957
+      },
+      {
+        "p": "Textiles",
+        "s": 0.018
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.011
+      }
+    ]
+  },
+  "ES": {
+    "total": 400747913224,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Transportation",
+        "s": 0.187
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.141
+      },
+      {
+        "p": "Machines",
+        "s": 0.128
+      },
+      {
+        "p": "Metals",
+        "s": 0.083
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.064
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.064
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.056
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.051
+      }
+    ]
+  },
+  "ET": {
+    "total": 3207962444,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Vegetable Products",
+        "s": 0.735
+      },
+      {
+        "p": "Textiles",
+        "s": 0.128
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.033
+      },
+      {
+        "p": "Machines",
+        "s": 0.024
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.02
+      },
+      {
+        "p": "Transportation",
+        "s": 0.02
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.015
+      },
+      {
+        "p": "Animal Hides",
+        "s": 0.01
+      }
+    ]
+  },
+  "FI": {
+    "total": 80766700611,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Machines",
+        "s": 0.245
+      },
+      {
+        "p": "Metals",
+        "s": 0.154
+      },
+      {
+        "p": "Paper Goods",
+        "s": 0.13
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.099
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.098
+      },
+      {
+        "p": "Transportation",
+        "s": 0.074
+      },
+      {
+        "p": "Wood Products",
+        "s": 0.044
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.037
+      }
+    ]
+  },
+  "FJ": {
+    "total": 1194908760,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Foodstuffs",
+        "s": 0.406
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.099
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.091
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.078
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.066
+      },
+      {
+        "p": "Textiles",
+        "s": 0.052
+      },
+      {
+        "p": "Wood Products",
+        "s": 0.051
+      },
+      {
+        "p": "Transportation",
+        "s": 0.04
+      }
+    ]
+  },
+  "FM": {
+    "total": 329818290,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Animal Products",
+        "s": 0.978
+      },
+      {
+        "p": "Machines",
+        "s": 0.01
+      }
+    ]
+  },
+  "FR": {
+    "total": 636371457741,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Machines",
+        "s": 0.187
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.179
+      },
+      {
+        "p": "Transportation",
+        "s": 0.167
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.076
+      },
+      {
+        "p": "Metals",
+        "s": 0.066
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.049
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.046
+      },
+      {
+        "p": "Instruments",
+        "s": 0.034
+      }
+    ]
+  },
+  "GA": {
+    "total": 8037633267,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.887
+      },
+      {
+        "p": "Wood Products",
+        "s": 0.089
+      },
+      {
+        "p": "Animal and Vegetable Bi-Products",
+        "s": 0.014
+      }
+    ]
+  },
+  "GB": {
+    "total": 423679302703,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Machines",
+        "s": 0.254
+      },
+      {
+        "p": "Transportation",
+        "s": 0.156
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.135
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.092
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.07
+      },
+      {
+        "p": "Metals",
+        "s": 0.064
+      },
+      {
+        "p": "Instruments",
+        "s": 0.051
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.05
+      }
+    ]
+  },
+  "GD": {
+    "total": 26025515,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Vegetable Products",
+        "s": 0.427
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.33
+      },
+      {
+        "p": "Metals",
+        "s": 0.085
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.063
+      },
+      {
+        "p": "Textiles",
+        "s": 0.022
+      },
+      {
+        "p": "Machines",
+        "s": 0.02
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.017
+      },
+      {
+        "p": "Paper Goods",
+        "s": 0.015
+      }
+    ]
+  },
+  "GE": {
+    "total": 2951180382,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Chemical Products",
+        "s": 0.17
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.159
+      },
+      {
+        "p": "Metals",
+        "s": 0.154
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.146
+      },
+      {
+        "p": "Textiles",
+        "s": 0.123
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.048
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.037
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.032
+      }
+    ]
+  },
+  "GH": {
+    "total": 15919632733,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Precious Metals",
+        "s": 0.373
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.308
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.186
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.038
+      },
+      {
+        "p": "Metals",
+        "s": 0.023
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.018
+      },
+      {
+        "p": "Animal and Vegetable Bi-Products",
+        "s": 0.014
+      },
+      {
+        "p": "Wood Products",
+        "s": 0.01
+      }
+    ]
+  },
+  "GM": {
+    "total": 205544176,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Vegetable Products",
+        "s": 0.297
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.171
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.142
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.122
+      },
+      {
+        "p": "Metals",
+        "s": 0.101
+      },
+      {
+        "p": "Animal and Vegetable Bi-Products",
+        "s": 0.072
+      },
+      {
+        "p": "Machines",
+        "s": 0.044
+      },
+      {
+        "p": "Wood Products",
+        "s": 0.021
+      }
+    ]
+  },
+  "GN": {
+    "total": 9643413837,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.869
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.054
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.048
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.014
+      }
+    ]
+  },
+  "GQ": {
+    "total": 4471120029,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.931
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.05
+      },
+      {
+        "p": "Wood Products",
+        "s": 0.013
+      }
+    ]
+  },
+  "GR": {
+    "total": 53108830634,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.317
+      },
+      {
+        "p": "Metals",
+        "s": 0.116
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.107
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.1
+      },
+      {
+        "p": "Machines",
+        "s": 0.08
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.055
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.049
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.032
+      }
+    ]
+  },
+  "GT": {
+    "total": 15544506028,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Vegetable Products",
+        "s": 0.273
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.179
+      },
+      {
+        "p": "Textiles",
+        "s": 0.145
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.114
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.051
+      },
+      {
+        "p": "Animal and Vegetable Bi-Products",
+        "s": 0.048
+      },
+      {
+        "p": "Metals",
+        "s": 0.048
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.033
+      }
+    ]
+  },
+  "GW": {
+    "total": 215881106,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Vegetable Products",
+        "s": 0.945
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.029
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.011
+      }
+    ]
+  },
+  "GY": {
+    "total": 18542378521,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.951
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.033
+      }
+    ]
+  },
+  "HN": {
+    "total": 10103659203,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Textiles",
+        "s": 0.256
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.209
+      },
+      {
+        "p": "Machines",
+        "s": 0.148
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.105
+      },
+      {
+        "p": "Animal and Vegetable Bi-Products",
+        "s": 0.054
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.041
+      },
+      {
+        "p": "Metals",
+        "s": 0.039
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.038
+      }
+    ]
+  },
+  "HR": {
+    "total": 24254357984,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Machines",
+        "s": 0.181
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.117
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.102
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.089
+      },
+      {
+        "p": "Metals",
+        "s": 0.087
+      },
+      {
+        "p": "Transportation",
+        "s": 0.087
+      },
+      {
+        "p": "Wood Products",
+        "s": 0.05
+      },
+      {
+        "p": "Textiles",
+        "s": 0.049
+      }
+    ]
+  },
+  "HT": {
+    "total": 815075911,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Textiles",
+        "s": 0.822
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.058
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.03
+      },
+      {
+        "p": "Footwear and Headwear",
+        "s": 0.029
+      },
+      {
+        "p": "Metals",
+        "s": 0.023
+      },
+      {
+        "p": "Machines",
+        "s": 0.017
+      }
+    ]
+  },
+  "HU": {
+    "total": 159778119617,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Machines",
+        "s": 0.393
+      },
+      {
+        "p": "Transportation",
+        "s": 0.172
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.114
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.053
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.046
+      },
+      {
+        "p": "Metals",
+        "s": 0.039
+      },
+      {
+        "p": "Instruments",
+        "s": 0.033
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.03
+      }
+    ]
+  },
+  "ID": {
+    "total": 296408361008,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.24
+      },
+      {
+        "p": "Metals",
+        "s": 0.152
+      },
+      {
+        "p": "Machines",
+        "s": 0.097
+      },
+      {
+        "p": "Animal and Vegetable Bi-Products",
+        "s": 0.096
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.068
+      },
+      {
+        "p": "Transportation",
+        "s": 0.048
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.046
+      },
+      {
+        "p": "Textiles",
+        "s": 0.045
+      }
+    ]
+  },
+  "IE": {
+    "total": 244850102141,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Chemical Products",
+        "s": 0.617
+      },
+      {
+        "p": "Machines",
+        "s": 0.129
+      },
+      {
+        "p": "Instruments",
+        "s": 0.095
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.043
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.039
+      },
+      {
+        "p": "Transportation",
+        "s": 0.033
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.01
+      }
+    ]
+  },
+  "IL": {
+    "total": 64031345816,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Machines",
+        "s": 0.337
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.146
+      },
+      {
+        "p": "Instruments",
+        "s": 0.124
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.107
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.083
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.046
+      },
+      {
+        "p": "Metals",
+        "s": 0.037
+      },
+      {
+        "p": "Transportation",
+        "s": 0.034
+      }
+    ]
+  },
+  "IN": {
+    "total": 454780509254,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Machines",
+        "s": 0.177
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.152
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.152
+      },
+      {
+        "p": "Textiles",
+        "s": 0.085
+      },
+      {
+        "p": "Metals",
+        "s": 0.079
+      },
+      {
+        "p": "Transportation",
+        "s": 0.076
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.072
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.057
+      }
+    ]
+  },
+  "IQ": {
+    "total": 109122962689,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.994
+      }
+    ]
+  },
+  "IR": {
+    "total": 12956293649,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.227
+      },
+      {
+        "p": "Metals",
+        "s": 0.207
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.176
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.133
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.129
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.044
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.026
+      },
+      {
+        "p": "Stone And Glass",
+        "s": 0.02
+      }
+    ]
+  },
+  "IS": {
+    "total": 7906861591,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Metals",
+        "s": 0.395
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.298
+      },
+      {
+        "p": "Instruments",
+        "s": 0.073
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.058
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.056
+      },
+      {
+        "p": "Machines",
+        "s": 0.034
+      },
+      {
+        "p": "Animal and Vegetable Bi-Products",
+        "s": 0.032
+      },
+      {
+        "p": "Transportation",
+        "s": 0.02
+      }
+    ]
+  },
+  "IT": {
+    "total": 639718699953,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Machines",
+        "s": 0.24
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.142
+      },
+      {
+        "p": "Transportation",
+        "s": 0.092
+      },
+      {
+        "p": "Metals",
+        "s": 0.089
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.07
+      },
+      {
+        "p": "Textiles",
+        "s": 0.057
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.047
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.042
+      }
+    ]
+  },
+  "JM": {
+    "total": 1058157430,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Chemical Products",
+        "s": 0.394
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.271
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.099
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.086
+      },
+      {
+        "p": "Transportation",
+        "s": 0.053
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.037
+      },
+      {
+        "p": "Metals",
+        "s": 0.031
+      },
+      {
+        "p": "Machines",
+        "s": 0.011
+      }
+    ]
+  },
+  "JO": {
+    "total": 10364691546,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Chemical Products",
+        "s": 0.303
+      },
+      {
+        "p": "Textiles",
+        "s": 0.25
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.11
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.103
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.045
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.04
+      },
+      {
+        "p": "Metals",
+        "s": 0.04
+      },
+      {
+        "p": "Machines",
+        "s": 0.037
+      }
+    ]
+  },
+  "JP": {
+    "total": 730811014800,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Machines",
+        "s": 0.361
+      },
+      {
+        "p": "Transportation",
+        "s": 0.24
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.097
+      },
+      {
+        "p": "Metals",
+        "s": 0.09
+      },
+      {
+        "p": "Instruments",
+        "s": 0.058
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.053
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.036
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.017
+      }
+    ]
+  },
+  "KE": {
+    "total": 8699310560,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Vegetable Products",
+        "s": 0.397
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.149
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.077
+      },
+      {
+        "p": "Textiles",
+        "s": 0.077
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.076
+      },
+      {
+        "p": "Metals",
+        "s": 0.054
+      },
+      {
+        "p": "Animal and Vegetable Bi-Products",
+        "s": 0.034
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.028
+      }
+    ]
+  },
+  "KG": {
+    "total": 9711120708,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Precious Metals",
+        "s": 0.738
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.065
+      },
+      {
+        "p": "Machines",
+        "s": 0.037
+      },
+      {
+        "p": "Textiles",
+        "s": 0.036
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.019
+      },
+      {
+        "p": "Metals",
+        "s": 0.019
+      },
+      {
+        "p": "Footwear and Headwear",
+        "s": 0.018
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.014
+      }
+    ]
+  },
+  "KH": {
+    "total": 36087517557,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Textiles",
+        "s": 0.414
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.099
+      },
+      {
+        "p": "Animal Hides",
+        "s": 0.093
+      },
+      {
+        "p": "Machines",
+        "s": 0.086
+      },
+      {
+        "p": "Footwear and Headwear",
+        "s": 0.08
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.058
+      },
+      {
+        "p": "Miscellaneous",
+        "s": 0.055
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.029
+      }
+    ]
+  },
+  "KI": {
+    "total": 109372466,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Animal Products",
+        "s": 0.904
+      },
+      {
+        "p": "Transportation",
+        "s": 0.071
+      }
+    ]
+  },
+  "KM": {
+    "total": 49868368,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Vegetable Products",
+        "s": 0.481
+      },
+      {
+        "p": "Transportation",
+        "s": 0.259
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.144
+      },
+      {
+        "p": "Metals",
+        "s": 0.059
+      },
+      {
+        "p": "Machines",
+        "s": 0.03
+      },
+      {
+        "p": "Textiles",
+        "s": 0.015
+      }
+    ]
+  },
+  "KN": {
+    "total": 40324004,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Transportation",
+        "s": 0.39
+      },
+      {
+        "p": "Machines",
+        "s": 0.221
+      },
+      {
+        "p": "Instruments",
+        "s": 0.215
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.069
+      },
+      {
+        "p": "Metals",
+        "s": 0.031
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.018
+      },
+      {
+        "p": "Miscellaneous",
+        "s": 0.012
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.01
+      }
+    ]
+  },
+  "KP": {
+    "total": 396433348,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Footwear and Headwear",
+        "s": 0.483
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.174
+      },
+      {
+        "p": "Metals",
+        "s": 0.073
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.056
+      },
+      {
+        "p": "Instruments",
+        "s": 0.055
+      },
+      {
+        "p": "Machines",
+        "s": 0.048
+      },
+      {
+        "p": "Textiles",
+        "s": 0.022
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.017
+      }
+    ]
+  },
+  "KR": {
+    "total": 720789276405,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Machines",
+        "s": 0.44
+      },
+      {
+        "p": "Transportation",
+        "s": 0.172
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.092
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.078
+      },
+      {
+        "p": "Metals",
+        "s": 0.075
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.063
+      },
+      {
+        "p": "Instruments",
+        "s": 0.022
+      },
+      {
+        "p": "Textiles",
+        "s": 0.014
+      }
+    ]
+  },
+  "KW": {
+    "total": 66705091704,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.861
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.049
+      },
+      {
+        "p": "Transportation",
+        "s": 0.034
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.018
+      }
+    ]
+  },
+  "KZ": {
+    "total": 87240676464,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.536
+      },
+      {
+        "p": "Metals",
+        "s": 0.14
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.113
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.079
+      },
+      {
+        "p": "Machines",
+        "s": 0.036
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.033
+      },
+      {
+        "p": "Transportation",
+        "s": 0.017
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.015
+      }
+    ]
+  },
+  "LA": {
+    "total": 10696224595,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.344
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.118
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.105
+      },
+      {
+        "p": "Machines",
+        "s": 0.092
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.071
+      },
+      {
+        "p": "Paper Goods",
+        "s": 0.068
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.055
+      },
+      {
+        "p": "Textiles",
+        "s": 0.047
+      }
+    ]
+  },
+  "LB": {
+    "total": 2036897986,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Metals",
+        "s": 0.203
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.14
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.121
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.107
+      },
+      {
+        "p": "Machines",
+        "s": 0.105
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.085
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.039
+      },
+      {
+        "p": "Animal and Vegetable Bi-Products",
+        "s": 0.034
+      }
+    ]
+  },
+  "LC": {
+    "total": 22749029,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Foodstuffs",
+        "s": 0.303
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.187
+      },
+      {
+        "p": "Metals",
+        "s": 0.155
+      },
+      {
+        "p": "Paper Goods",
+        "s": 0.102
+      },
+      {
+        "p": "Machines",
+        "s": 0.067
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.06
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.052
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.029
+      }
+    ]
+  },
+  "LK": {
+    "total": 13775407019,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Textiles",
+        "s": 0.423
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.163
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.085
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.063
+      },
+      {
+        "p": "Machines",
+        "s": 0.05
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.041
+      },
+      {
+        "p": "Transportation",
+        "s": 0.028
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.026
+      }
+    ]
+  },
+  "LR": {
+    "total": 2434599778,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Precious Metals",
+        "s": 0.378
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.204
+      },
+      {
+        "p": "Transportation",
+        "s": 0.201
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.092
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.075
+      },
+      {
+        "p": "Animal and Vegetable Bi-Products",
+        "s": 0.034
+      }
+    ]
+  },
+  "LS": {
+    "total": 1101813236,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Textiles",
+        "s": 0.423
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.346
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.081
+      },
+      {
+        "p": "Machines",
+        "s": 0.073
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.031
+      },
+      {
+        "p": "Transportation",
+        "s": 0.012
+      }
+    ]
+  },
+  "LT": {
+    "total": 39786270820,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.139
+      },
+      {
+        "p": "Machines",
+        "s": 0.126
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.115
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.094
+      },
+      {
+        "p": "Miscellaneous",
+        "s": 0.087
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.067
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.061
+      },
+      {
+        "p": "Transportation",
+        "s": 0.061
+      }
+    ]
+  },
+  "LU": {
+    "total": 18070436652,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Metals",
+        "s": 0.238
+      },
+      {
+        "p": "Machines",
+        "s": 0.178
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.144
+      },
+      {
+        "p": "Transportation",
+        "s": 0.092
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.07
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.051
+      },
+      {
+        "p": "Textiles",
+        "s": 0.048
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.035
+      }
+    ]
+  },
+  "LV": {
+    "total": 19748571706,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Wood Products",
+        "s": 0.164
+      },
+      {
+        "p": "Machines",
+        "s": 0.146
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.106
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.09
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.08
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.074
+      },
+      {
+        "p": "Metals",
+        "s": 0.068
+      },
+      {
+        "p": "Transportation",
+        "s": 0.052
+      }
+    ]
+  },
+  "LY": {
+    "total": 30492348843,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.96
+      },
+      {
+        "p": "Metals",
+        "s": 0.024
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.013
+      }
+    ]
+  },
+  "MA": {
+    "total": 67541630203,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Transportation",
+        "s": 0.223
+      },
+      {
+        "p": "Machines",
+        "s": 0.201
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.18
+      },
+      {
+        "p": "Textiles",
+        "s": 0.116
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.087
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.043
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.038
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.03
+      }
+    ]
+  },
+  "MD": {
+    "total": 4299604630,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Vegetable Products",
+        "s": 0.254
+      },
+      {
+        "p": "Machines",
+        "s": 0.172
+      },
+      {
+        "p": "Textiles",
+        "s": 0.13
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.122
+      },
+      {
+        "p": "Metals",
+        "s": 0.068
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.051
+      },
+      {
+        "p": "Miscellaneous",
+        "s": 0.042
+      },
+      {
+        "p": "Animal and Vegetable Bi-Products",
+        "s": 0.031
+      }
+    ]
+  },
+  "ME": {
+    "total": 1254358524,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.523
+      },
+      {
+        "p": "Metals",
+        "s": 0.122
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.069
+      },
+      {
+        "p": "Transportation",
+        "s": 0.062
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.059
+      },
+      {
+        "p": "Machines",
+        "s": 0.045
+      },
+      {
+        "p": "Wood Products",
+        "s": 0.029
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.028
+      }
+    ]
+  },
+  "MG": {
+    "total": 3468695898,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Textiles",
+        "s": 0.257
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.214
+      },
+      {
+        "p": "Metals",
+        "s": 0.167
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.118
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.063
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.053
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.039
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.035
+      }
+    ]
+  },
+  "MH": {
+    "total": 1067767236,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Transportation",
+        "s": 0.79
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.099
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.091
+      }
+    ]
+  },
+  "MK": {
+    "total": 9254017281,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Chemical Products",
+        "s": 0.262
+      },
+      {
+        "p": "Machines",
+        "s": 0.252
+      },
+      {
+        "p": "Metals",
+        "s": 0.091
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.077
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.07
+      },
+      {
+        "p": "Textiles",
+        "s": 0.059
+      },
+      {
+        "p": "Miscellaneous",
+        "s": 0.055
+      },
+      {
+        "p": "Transportation",
+        "s": 0.045
+      }
+    ]
+  },
+  "ML": {
+    "total": 1252645123,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Precious Metals",
+        "s": 0.563
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.137
+      },
+      {
+        "p": "Textiles",
+        "s": 0.128
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.091
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.023
+      },
+      {
+        "p": "Transportation",
+        "s": 0.013
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.01
+      },
+      {
+        "p": "Machines",
+        "s": 0.01
+      }
+    ]
+  },
+  "MM": {
+    "total": 19979771077,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Textiles",
+        "s": 0.279
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.251
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.187
+      },
+      {
+        "p": "Footwear and Headwear",
+        "s": 0.043
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.042
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.041
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.037
+      },
+      {
+        "p": "Metals",
+        "s": 0.028
+      }
+    ]
+  },
+  "MN": {
+    "total": 14797284638,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.89
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.058
+      },
+      {
+        "p": "Textiles",
+        "s": 0.019
+      },
+      {
+        "p": "Metals",
+        "s": 0.011
+      }
+    ]
+  },
+  "MR": {
+    "total": 4748117316,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.366
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.343
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.225
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.026
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.01
+      },
+      {
+        "p": "Animal and Vegetable Bi-Products",
+        "s": 0.01
+      }
+    ]
+  },
+  "MT": {
+    "total": 7085315914,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.284
+      },
+      {
+        "p": "Machines",
+        "s": 0.253
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.121
+      },
+      {
+        "p": "Transportation",
+        "s": 0.105
+      },
+      {
+        "p": "Paper Goods",
+        "s": 0.052
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.033
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.028
+      },
+      {
+        "p": "Miscellaneous",
+        "s": 0.026
+      }
+    ]
+  },
+  "MU": {
+    "total": 2551781579,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Foodstuffs",
+        "s": 0.26
+      },
+      {
+        "p": "Textiles",
+        "s": 0.182
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.098
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.095
+      },
+      {
+        "p": "Machines",
+        "s": 0.06
+      },
+      {
+        "p": "Metals",
+        "s": 0.056
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.046
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.042
+      }
+    ]
+  },
+  "MV": {
+    "total": 278847348,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Animal Products",
+        "s": 0.366
+      },
+      {
+        "p": "Transportation",
+        "s": 0.289
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.158
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.108
+      },
+      {
+        "p": "Metals",
+        "s": 0.051
+      },
+      {
+        "p": "Machines",
+        "s": 0.018
+      }
+    ]
+  },
+  "MW": {
+    "total": 1002022244,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Foodstuffs",
+        "s": 0.637
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.249
+      },
+      {
+        "p": "Machines",
+        "s": 0.018
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.017
+      },
+      {
+        "p": "Metals",
+        "s": 0.017
+      },
+      {
+        "p": "Transportation",
+        "s": 0.017
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.013
+      },
+      {
+        "p": "Wood Products",
+        "s": 0.01
+      }
+    ]
+  },
+  "MX": {
+    "total": 650272340335,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Machines",
+        "s": 0.371
+      },
+      {
+        "p": "Transportation",
+        "s": 0.26
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.063
+      },
+      {
+        "p": "Instruments",
+        "s": 0.058
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.042
+      },
+      {
+        "p": "Metals",
+        "s": 0.037
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.036
+      },
+      {
+        "p": "Miscellaneous",
+        "s": 0.027
+      }
+    ]
+  },
+  "MY": {
+    "total": 407611729089,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Machines",
+        "s": 0.431
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.242
+      },
+      {
+        "p": "Metals",
+        "s": 0.054
+      },
+      {
+        "p": "Animal and Vegetable Bi-Products",
+        "s": 0.05
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.044
+      },
+      {
+        "p": "Instruments",
+        "s": 0.044
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.041
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.023
+      }
+    ]
+  },
+  "MZ": {
+    "total": 13464160018,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.622
+      },
+      {
+        "p": "Metals",
+        "s": 0.174
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.071
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.058
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.029
+      },
+      {
+        "p": "Animal and Vegetable Bi-Products",
+        "s": 0.011
+      }
+    ]
+  },
+  "NA": {
+    "total": 8024762760,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.263
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.249
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.146
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.128
+      },
+      {
+        "p": "Metals",
+        "s": 0.106
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.024
+      },
+      {
+        "p": "Machines",
+        "s": 0.024
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.019
+      }
+    ]
+  },
+  "NE": {
+    "total": 1571362332,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Vegetable Products",
+        "s": 0.469
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.291
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.154
+      },
+      {
+        "p": "Machines",
+        "s": 0.031
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.017
+      }
+    ]
+  },
+  "NG": {
+    "total": 63699820016,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.87
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.046
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.022
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.017
+      },
+      {
+        "p": "Metals",
+        "s": 0.015
+      },
+      {
+        "p": "Transportation",
+        "s": 0.011
+      }
+    ]
+  },
+  "NI": {
+    "total": 8335152451,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Textiles",
+        "s": 0.233
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.176
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.16
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.122
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.115
+      },
+      {
+        "p": "Machines",
+        "s": 0.099
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.053
+      },
+      {
+        "p": "Animal and Vegetable Bi-Products",
+        "s": 0.013
+      }
+    ]
+  },
+  "NL": {
+    "total": 582982633797,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Machines",
+        "s": 0.22
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.152
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.152
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.086
+      },
+      {
+        "p": "Metals",
+        "s": 0.058
+      },
+      {
+        "p": "Transportation",
+        "s": 0.055
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.053
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.052
+      }
+    ]
+  },
+  "NO": {
+    "total": 174343576904,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.652
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.099
+      },
+      {
+        "p": "Metals",
+        "s": 0.071
+      },
+      {
+        "p": "Machines",
+        "s": 0.049
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.04
+      },
+      {
+        "p": "Transportation",
+        "s": 0.028
+      },
+      {
+        "p": "Instruments",
+        "s": 0.011
+      }
+    ]
+  },
+  "NP": {
+    "total": 1239178159,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Textiles",
+        "s": 0.3
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.124
+      },
+      {
+        "p": "Animal and Vegetable Bi-Products",
+        "s": 0.123
+      },
+      {
+        "p": "Metals",
+        "s": 0.117
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.112
+      },
+      {
+        "p": "Wood Products",
+        "s": 0.06
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.037
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.027
+      }
+    ]
+  },
+  "NR": {
+    "total": 202264597,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Animal Products",
+        "s": 0.758
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.112
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.047
+      },
+      {
+        "p": "Machines",
+        "s": 0.035
+      },
+      {
+        "p": "Miscellaneous",
+        "s": 0.011
+      }
+    ]
+  },
+  "NZ": {
+    "total": 45218273242,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Animal Products",
+        "s": 0.442
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.118
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.09
+      },
+      {
+        "p": "Wood Products",
+        "s": 0.064
+      },
+      {
+        "p": "Machines",
+        "s": 0.058
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.054
+      },
+      {
+        "p": "Metals",
+        "s": 0.039
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.028
+      }
+    ]
+  },
+  "OM": {
+    "total": 69632323342,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.782
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.09
+      },
+      {
+        "p": "Metals",
+        "s": 0.066
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.025
+      }
+    ]
+  },
+  "PA": {
+    "total": 3704837418,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Transportation",
+        "s": 0.204
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.097
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.091
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.082
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.081
+      },
+      {
+        "p": "Metals",
+        "s": 0.079
+      },
+      {
+        "p": "Machines",
+        "s": 0.079
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.072
+      }
+    ]
+  },
+  "PE": {
+    "total": 74958947217,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.446
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.179
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.129
+      },
+      {
+        "p": "Metals",
+        "s": 0.08
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.066
+      },
+      {
+        "p": "Textiles",
+        "s": 0.023
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.019
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.016
+      }
+    ]
+  },
+  "PG": {
+    "total": 13880292835,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.585
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.193
+      },
+      {
+        "p": "Animal and Vegetable Bi-Products",
+        "s": 0.059
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.045
+      },
+      {
+        "p": "Wood Products",
+        "s": 0.041
+      },
+      {
+        "p": "Metals",
+        "s": 0.033
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.021
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.014
+      }
+    ]
+  },
+  "PH": {
+    "total": 96249162030,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Machines",
+        "s": 0.631
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.053
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.042
+      },
+      {
+        "p": "Metals",
+        "s": 0.042
+      },
+      {
+        "p": "Instruments",
+        "s": 0.034
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.03
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.027
+      },
+      {
+        "p": "Transportation",
+        "s": 0.023
+      }
+    ]
+  },
+  "PK": {
+    "total": 37115584997,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Textiles",
+        "s": 0.532
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.158
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.05
+      },
+      {
+        "p": "Metals",
+        "s": 0.046
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.043
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.032
+      },
+      {
+        "p": "Animal Hides",
+        "s": 0.026
+      },
+      {
+        "p": "Miscellaneous",
+        "s": 0.025
+      }
+    ]
+  },
+  "PL": {
+    "total": 366707881549,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Machines",
+        "s": 0.251
+      },
+      {
+        "p": "Transportation",
+        "s": 0.133
+      },
+      {
+        "p": "Metals",
+        "s": 0.09
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.085
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.073
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.063
+      },
+      {
+        "p": "Miscellaneous",
+        "s": 0.058
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.043
+      }
+    ]
+  },
+  "PT": {
+    "total": 86178464008,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Machines",
+        "s": 0.167
+      },
+      {
+        "p": "Transportation",
+        "s": 0.138
+      },
+      {
+        "p": "Textiles",
+        "s": 0.08
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.077
+      },
+      {
+        "p": "Metals",
+        "s": 0.076
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.067
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.06
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.057
+      }
+    ]
+  },
+  "PW": {
+    "total": 19670660,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Transportation",
+        "s": 0.864
+      },
+      {
+        "p": "Machines",
+        "s": 0.055
+      },
+      {
+        "p": "Metals",
+        "s": 0.039
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.03
+      }
+    ]
+  },
+  "PY": {
+    "total": 11465650419,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Vegetable Products",
+        "s": 0.395
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.172
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.105
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.103
+      },
+      {
+        "p": "Animal and Vegetable Bi-Products",
+        "s": 0.046
+      },
+      {
+        "p": "Machines",
+        "s": 0.036
+      },
+      {
+        "p": "Textiles",
+        "s": 0.033
+      },
+      {
+        "p": "Metals",
+        "s": 0.031
+      }
+    ]
+  },
+  "QA": {
+    "total": 88847213557,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.886
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.05
+      },
+      {
+        "p": "Metals",
+        "s": 0.026
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.022
+      }
+    ]
+  },
+  "RO": {
+    "total": 106581892357,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Machines",
+        "s": 0.286
+      },
+      {
+        "p": "Transportation",
+        "s": 0.209
+      },
+      {
+        "p": "Metals",
+        "s": 0.077
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.057
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.055
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.049
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.043
+      },
+      {
+        "p": "Textiles",
+        "s": 0.041
+      }
+    ]
+  },
+  "RS": {
+    "total": 34927700363,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Machines",
+        "s": 0.242
+      },
+      {
+        "p": "Metals",
+        "s": 0.122
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.108
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.091
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.085
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.068
+      },
+      {
+        "p": "Transportation",
+        "s": 0.058
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.057
+      }
+    ]
+  },
+  "RU": {
+    "total": 374422796772,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.644
+      },
+      {
+        "p": "Metals",
+        "s": 0.085
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.065
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.05
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.037
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.02
+      },
+      {
+        "p": "Animal and Vegetable Bi-Products",
+        "s": 0.017
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.016
+      }
+    ]
+  },
+  "RW": {
+    "total": 579987731,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.394
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.325
+      },
+      {
+        "p": "Transportation",
+        "s": 0.086
+      },
+      {
+        "p": "Metals",
+        "s": 0.069
+      },
+      {
+        "p": "Textiles",
+        "s": 0.037
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.027
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.016
+      },
+      {
+        "p": "Machines",
+        "s": 0.014
+      }
+    ]
+  },
+  "SA": {
+    "total": 307650537289,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.726
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.073
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.068
+      },
+      {
+        "p": "Machines",
+        "s": 0.035
+      },
+      {
+        "p": "Transportation",
+        "s": 0.034
+      },
+      {
+        "p": "Metals",
+        "s": 0.023
+      }
+    ]
+  },
+  "SB": {
+    "total": 678493670,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Wood Products",
+        "s": 0.452
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.169
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.154
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.127
+      },
+      {
+        "p": "Animal and Vegetable Bi-Products",
+        "s": 0.055
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.016
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.014
+      }
+    ]
+  },
+  "SC": {
+    "total": 898937879,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Animal Products",
+        "s": 0.33
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.279
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.251
+      },
+      {
+        "p": "Metals",
+        "s": 0.059
+      },
+      {
+        "p": "Transportation",
+        "s": 0.034
+      },
+      {
+        "p": "Machines",
+        "s": 0.019
+      }
+    ]
+  },
+  "SD": {
+    "total": 3060915094,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Vegetable Products",
+        "s": 0.435
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.283
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.223
+      },
+      {
+        "p": "Textiles",
+        "s": 0.031
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.012
+      }
+    ]
+  },
+  "SE": {
+    "total": 191533718177,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Machines",
+        "s": 0.237
+      },
+      {
+        "p": "Transportation",
+        "s": 0.162
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.126
+      },
+      {
+        "p": "Metals",
+        "s": 0.102
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.095
+      },
+      {
+        "p": "Paper Goods",
+        "s": 0.072
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.038
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.027
+      }
+    ]
+  },
+  "SG": {
+    "total": 330555564008,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Machines",
+        "s": 0.453
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.179
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.128
+      },
+      {
+        "p": "Instruments",
+        "s": 0.063
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.047
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.038
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.033
+      },
+      {
+        "p": "Metals",
+        "s": 0.02
+      }
+    ]
+  },
+  "SI": {
+    "total": 67846808632,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Chemical Products",
+        "s": 0.418
+      },
+      {
+        "p": "Machines",
+        "s": 0.163
+      },
+      {
+        "p": "Transportation",
+        "s": 0.097
+      },
+      {
+        "p": "Metals",
+        "s": 0.079
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.051
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.044
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.023
+      },
+      {
+        "p": "Miscellaneous",
+        "s": 0.019
+      }
+    ]
+  },
+  "SK": {
+    "total": 118389620995,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Transportation",
+        "s": 0.396
+      },
+      {
+        "p": "Machines",
+        "s": 0.252
+      },
+      {
+        "p": "Metals",
+        "s": 0.084
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.051
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.044
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.029
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.023
+      },
+      {
+        "p": "Miscellaneous",
+        "s": 0.022
+      }
+    ]
+  },
+  "SL": {
+    "total": 1517629776,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.725
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.1
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.072
+      },
+      {
+        "p": "Metals",
+        "s": 0.024
+      },
+      {
+        "p": "Machines",
+        "s": 0.024
+      },
+      {
+        "p": "Animal and Vegetable Bi-Products",
+        "s": 0.011
+      }
+    ]
+  },
+  "SM": {
+    "total": 231294263,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Machines",
+        "s": 0.394
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.159
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.118
+      },
+      {
+        "p": "Textiles",
+        "s": 0.098
+      },
+      {
+        "p": "Metals",
+        "s": 0.055
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.045
+      },
+      {
+        "p": "Miscellaneous",
+        "s": 0.039
+      },
+      {
+        "p": "Paper Goods",
+        "s": 0.025
+      }
+    ]
+  },
+  "SN": {
+    "total": 6679440641,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.414
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.124
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.096
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.083
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.072
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.071
+      },
+      {
+        "p": "Metals",
+        "s": 0.052
+      },
+      {
+        "p": "Machines",
+        "s": 0.017
+      }
+    ]
+  },
+  "SO": {
+    "total": 508953682,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Animal Products",
+        "s": 0.791
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.089
+      },
+      {
+        "p": "Machines",
+        "s": 0.041
+      },
+      {
+        "p": "Metals",
+        "s": 0.039
+      },
+      {
+        "p": "Paper Goods",
+        "s": 0.011
+      }
+    ]
+  },
+  "SR": {
+    "total": 1656663651,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Precious Metals",
+        "s": 0.804
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.057
+      },
+      {
+        "p": "Wood Products",
+        "s": 0.057
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.041
+      },
+      {
+        "p": "Metals",
+        "s": 0.013
+      },
+      {
+        "p": "Machines",
+        "s": 0.01
+      }
+    ]
+  },
+  "SS": {
+    "total": 506954792,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.921
+      },
+      {
+        "p": "Metals",
+        "s": 0.05
+      }
+    ]
+  },
+  "ST": {
+    "total": 48987676,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Foodstuffs",
+        "s": 0.438
+      },
+      {
+        "p": "Transportation",
+        "s": 0.157
+      },
+      {
+        "p": "Animal and Vegetable Bi-Products",
+        "s": 0.139
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.131
+      },
+      {
+        "p": "Machines",
+        "s": 0.075
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.012
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.011
+      }
+    ]
+  },
+  "SV": {
+    "total": 6660009527,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Textiles",
+        "s": 0.322
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.17
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.083
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.07
+      },
+      {
+        "p": "Machines",
+        "s": 0.068
+      },
+      {
+        "p": "Paper Goods",
+        "s": 0.061
+      },
+      {
+        "p": "Metals",
+        "s": 0.061
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.05
+      }
+    ]
+  },
+  "SY": {
+    "total": 978860503,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Animal and Vegetable Bi-Products",
+        "s": 0.32
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.297
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.092
+      },
+      {
+        "p": "Textiles",
+        "s": 0.089
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.083
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.045
+      },
+      {
+        "p": "Metals",
+        "s": 0.03
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.012
+      }
+    ]
+  },
+  "SZ": {
+    "total": 2172779553,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Chemical Products",
+        "s": 0.433
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.269
+      },
+      {
+        "p": "Textiles",
+        "s": 0.111
+      },
+      {
+        "p": "Wood Products",
+        "s": 0.066
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.043
+      },
+      {
+        "p": "Machines",
+        "s": 0.024
+      },
+      {
+        "p": "Paper Goods",
+        "s": 0.012
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.01
+      }
+    ]
+  },
+  "TD": {
+    "total": 3480675780,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.914
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.074
+      },
+      {
+        "p": "Textiles",
+        "s": 0.01
+      }
+    ]
+  },
+  "TG": {
+    "total": 2327328052,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.41
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.314
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.115
+      },
+      {
+        "p": "Metals",
+        "s": 0.063
+      },
+      {
+        "p": "Animal and Vegetable Bi-Products",
+        "s": 0.021
+      },
+      {
+        "p": "Textiles",
+        "s": 0.017
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.014
+      },
+      {
+        "p": "Wood Products",
+        "s": 0.011
+      }
+    ]
+  },
+  "TH": {
+    "total": 340766655983,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Machines",
+        "s": 0.373
+      },
+      {
+        "p": "Transportation",
+        "s": 0.119
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.098
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.074
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.051
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.051
+      },
+      {
+        "p": "Metals",
+        "s": 0.05
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.042
+      }
+    ]
+  },
+  "TJ": {
+    "total": 1689364452,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Metals",
+        "s": 0.354
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.313
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.206
+      },
+      {
+        "p": "Textiles",
+        "s": 0.053
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.024
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.022
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.012
+      }
+    ]
+  },
+  "TL": {
+    "total": 88847023,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.722
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.205
+      },
+      {
+        "p": "Machines",
+        "s": 0.028
+      },
+      {
+        "p": "Metals",
+        "s": 0.013
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.011
+      }
+    ]
+  },
+  "TM": {
+    "total": 13457374203,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.925
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.051
+      },
+      {
+        "p": "Textiles",
+        "s": 0.011
+      }
+    ]
+  },
+  "TN": {
+    "total": 23344786434,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Machines",
+        "s": 0.319
+      },
+      {
+        "p": "Textiles",
+        "s": 0.178
+      },
+      {
+        "p": "Animal and Vegetable Bi-Products",
+        "s": 0.076
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.067
+      },
+      {
+        "p": "Transportation",
+        "s": 0.054
+      },
+      {
+        "p": "Instruments",
+        "s": 0.043
+      },
+      {
+        "p": "Metals",
+        "s": 0.042
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.041
+      }
+    ]
+  },
+  "TO": {
+    "total": 22738234,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.389
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.265
+      },
+      {
+        "p": "Machines",
+        "s": 0.082
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.081
+      },
+      {
+        "p": "Paper Goods",
+        "s": 0.039
+      },
+      {
+        "p": "Metals",
+        "s": 0.033
+      },
+      {
+        "p": "Instruments",
+        "s": 0.03
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.023
+      }
+    ]
+  },
+  "TR": {
+    "total": 267377806988,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Machines",
+        "s": 0.163
+      },
+      {
+        "p": "Transportation",
+        "s": 0.144
+      },
+      {
+        "p": "Textiles",
+        "s": 0.125
+      },
+      {
+        "p": "Metals",
+        "s": 0.117
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.081
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.056
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.054
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.052
+      }
+    ]
+  },
+  "TT": {
+    "total": 11033655707,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.544
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.36
+      },
+      {
+        "p": "Metals",
+        "s": 0.065
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.015
+      }
+    ]
+  },
+  "TV": {
+    "total": 80189663,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Animal Products",
+        "s": 0.743
+      },
+      {
+        "p": "Transportation",
+        "s": 0.241
+      }
+    ]
+  },
+  "TZ": {
+    "total": 11979635815,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Precious Metals",
+        "s": 0.424
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.209
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.117
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.083
+      },
+      {
+        "p": "Metals",
+        "s": 0.035
+      },
+      {
+        "p": "Textiles",
+        "s": 0.028
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.027
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.017
+      }
+    ]
+  },
+  "UA": {
+    "total": 46148666586,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Vegetable Products",
+        "s": 0.336
+      },
+      {
+        "p": "Animal and Vegetable Bi-Products",
+        "s": 0.129
+      },
+      {
+        "p": "Metals",
+        "s": 0.105
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.086
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.085
+      },
+      {
+        "p": "Machines",
+        "s": 0.078
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.037
+      },
+      {
+        "p": "Wood Products",
+        "s": 0.035
+      }
+    ]
+  },
+  "UG": {
+    "total": 8881087148,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Precious Metals",
+        "s": 0.475
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.236
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.094
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.036
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.029
+      },
+      {
+        "p": "Metals",
+        "s": 0.026
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.019
+      },
+      {
+        "p": "Transportation",
+        "s": 0.016
+      }
+    ]
+  },
+  "US": {
+    "total": 1897844747989,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Machines",
+        "s": 0.236
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.192
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.129
+      },
+      {
+        "p": "Transportation",
+        "s": 0.113
+      },
+      {
+        "p": "Instruments",
+        "s": 0.058
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.049
+      },
+      {
+        "p": "Metals",
+        "s": 0.046
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.041
+      }
+    ]
+  },
+  "UY": {
+    "total": 12290790485,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Animal Products",
+        "s": 0.288
+      },
+      {
+        "p": "Paper Goods",
+        "s": 0.232
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.157
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.052
+      },
+      {
+        "p": "Transportation",
+        "s": 0.044
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.043
+      },
+      {
+        "p": "Wood Products",
+        "s": 0.038
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.028
+      }
+    ]
+  },
+  "UZ": {
+    "total": 22835275918,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Precious Metals",
+        "s": 0.432
+      },
+      {
+        "p": "Textiles",
+        "s": 0.132
+      },
+      {
+        "p": "Metals",
+        "s": 0.099
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.086
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.078
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.058
+      },
+      {
+        "p": "Machines",
+        "s": 0.031
+      },
+      {
+        "p": "Transportation",
+        "s": 0.024
+      }
+    ]
+  },
+  "VC": {
+    "total": 26423677,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Transportation",
+        "s": 0.392
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.148
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.113
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.112
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.1
+      },
+      {
+        "p": "Metals",
+        "s": 0.032
+      },
+      {
+        "p": "Machines",
+        "s": 0.032
+      },
+      {
+        "p": "Paper Goods",
+        "s": 0.024
+      }
+    ]
+  },
+  "VE": {
+    "total": 13609199518,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Mineral Products",
+        "s": 0.817
+      },
+      {
+        "p": "Metals",
+        "s": 0.068
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.052
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.028
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.02
+      }
+    ]
+  },
+  "VN": {
+    "total": 504977367122,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Machines",
+        "s": 0.549
+      },
+      {
+        "p": "Textiles",
+        "s": 0.099
+      },
+      {
+        "p": "Footwear and Headwear",
+        "s": 0.067
+      },
+      {
+        "p": "Miscellaneous",
+        "s": 0.052
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.039
+      },
+      {
+        "p": "Metals",
+        "s": 0.038
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.034
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.017
+      }
+    ]
+  },
+  "VU": {
+    "total": 321226077,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Animal Products",
+        "s": 0.452
+      },
+      {
+        "p": "Transportation",
+        "s": 0.392
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.113
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.03
+      }
+    ]
+  },
+  "WS": {
+    "total": 39835711,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Machines",
+        "s": 0.523
+      },
+      {
+        "p": "Animal and Vegetable Bi-Products",
+        "s": 0.089
+      },
+      {
+        "p": "Footwear and Headwear",
+        "s": 0.083
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.056
+      },
+      {
+        "p": "Transportation",
+        "s": 0.052
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.049
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.045
+      },
+      {
+        "p": "Metals",
+        "s": 0.036
+      }
+    ]
+  },
+  "YE": {
+    "total": 661397694,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Metals",
+        "s": 0.308
+      },
+      {
+        "p": "Animal Products",
+        "s": 0.297
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.196
+      },
+      {
+        "p": "Machines",
+        "s": 0.094
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.04
+      },
+      {
+        "p": "Plastics and Rubbers",
+        "s": 0.035
+      },
+      {
+        "p": "Animal Hides",
+        "s": 0.014
+      }
+    ]
+  },
+  "ZA": {
+    "total": 152235700635,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Precious Metals",
+        "s": 0.338
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.209
+      },
+      {
+        "p": "Transportation",
+        "s": 0.112
+      },
+      {
+        "p": "Metals",
+        "s": 0.088
+      },
+      {
+        "p": "Machines",
+        "s": 0.054
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.053
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.046
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.032
+      }
+    ]
+  },
+  "ZM": {
+    "total": 14520198405,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Metals",
+        "s": 0.7
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.108
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.058
+      },
+      {
+        "p": "Precious Metals",
+        "s": 0.04
+      },
+      {
+        "p": "Chemical Products",
+        "s": 0.037
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.011
+      },
+      {
+        "p": "Stone And Glass",
+        "s": 0.01
+      },
+      {
+        "p": "Machines",
+        "s": 0.01
+      }
+    ]
+  },
+  "ZW": {
+    "total": 7898470170,
+    "year": 2024,
+    "items": [
+      {
+        "p": "Precious Metals",
+        "s": 0.362
+      },
+      {
+        "p": "Mineral Products",
+        "s": 0.197
+      },
+      {
+        "p": "Foodstuffs",
+        "s": 0.193
+      },
+      {
+        "p": "Metals",
+        "s": 0.181
+      },
+      {
+        "p": "Vegetable Products",
+        "s": 0.027
+      },
+      {
+        "p": "Animal Hides",
+        "s": 0.013
+      }
+    ]
+  }
+}

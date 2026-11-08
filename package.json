@@ -1,0 +1,32 @@
+{
+  "name": "antipodle",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "data:countries": "tsx scripts/build-countries.ts",
+    "data:probe": "node scripts/oec-probe.mjs",
+    "data:fetch": "node scripts/fetch-oec.mjs",
+    "data:build": "tsx scripts/build-exports.ts && tsx scripts/build-puzzles.ts"
+  },
+  "dependencies": {
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@turf/helpers": "^7.4.0",
+    "@turf/point-to-polygon-distance": "^7.4.0",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.2.1",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.6",
+    "vitest": "^5.1.0",
+    "world-countries": "^5.1.0"
+  }
+}
